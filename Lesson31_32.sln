@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Regex", "1_Regex\1_Regex.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_LocalFunction", "2_LocalFunction\2_LocalFunction.csproj", "{07E30117-54AD-468D-9838-0D21A3CE5EDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Ildasm", "3_Ildasm\3_Ildasm.csproj", "{F2A1EE89-B266-44D1-9961-83A2C54ECD4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{07E30117-54AD-468D-9838-0D21A3CE5EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07E30117-54AD-468D-9838-0D21A3CE5EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07E30117-54AD-468D-9838-0D21A3CE5EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A1EE89-B266-44D1-9961-83A2C54ECD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A1EE89-B266-44D1-9961-83A2C54ECD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A1EE89-B266-44D1-9961-83A2C54ECD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A1EE89-B266-44D1-9961-83A2C54ECD4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
