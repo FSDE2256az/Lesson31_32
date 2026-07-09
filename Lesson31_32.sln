@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Ildasm", "3_Ildasm\3_Ilda
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Log", "4_Log\4_Log.csproj", "{3A6B9484-FF6B-448D-B571-3A7B849D4026}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Reflaction", "5_Reflaction\5_Reflaction.csproj", "{055A431D-1B7B-4367-8A80-F83C7FF7D0CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3A6B9484-FF6B-448D-B571-3A7B849D4026}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A6B9484-FF6B-448D-B571-3A7B849D4026}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A6B9484-FF6B-448D-B571-3A7B849D4026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055A431D-1B7B-4367-8A80-F83C7FF7D0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055A431D-1B7B-4367-8A80-F83C7FF7D0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055A431D-1B7B-4367-8A80-F83C7FF7D0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055A431D-1B7B-4367-8A80-F83C7FF7D0CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
