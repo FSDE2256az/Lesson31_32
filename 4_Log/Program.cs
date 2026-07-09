@@ -16,12 +16,17 @@ public class Program
 {
     static void Main(string[] args)
     {
-        
+
+    //    using var log = new LoggerConfiguration()
+    //.WriteTo.Console()
+    //.WriteTo.File("log.txt")
+    //.CreateLogger();
+
+    //    log.Information("Hello, Serilog!");
 
 
 
 
-        
 
 
     }
