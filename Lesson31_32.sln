@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_LocalFunction", "2_LocalF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Ildasm", "3_Ildasm\3_Ildasm.csproj", "{F2A1EE89-B266-44D1-9961-83A2C54ECD4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Log", "4_Log\4_Log.csproj", "{3A6B9484-FF6B-448D-B571-3A7B849D4026}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F2A1EE89-B266-44D1-9961-83A2C54ECD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2A1EE89-B266-44D1-9961-83A2C54ECD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A1EE89-B266-44D1-9961-83A2C54ECD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6B9484-FF6B-448D-B571-3A7B849D4026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6B9484-FF6B-448D-B571-3A7B849D4026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6B9484-FF6B-448D-B571-3A7B849D4026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6B9484-FF6B-448D-B571-3A7B849D4026}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
