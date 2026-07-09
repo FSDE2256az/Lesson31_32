@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Regex", "1_Regex\1_Regex.csproj", "{54DD5C9A-6B19-42D4-B6F4-DB40FD851D74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_LocalFunction", "2_LocalFunction\2_LocalFunction.csproj", "{07E30117-54AD-468D-9838-0D21A3CE5EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54DD5C9A-6B19-42D4-B6F4-DB40FD851D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DD5C9A-6B19-42D4-B6F4-DB40FD851D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DD5C9A-6B19-42D4-B6F4-DB40FD851D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DD5C9A-6B19-42D4-B6F4-DB40FD851D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E30117-54AD-468D-9838-0D21A3CE5EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E30117-54AD-468D-9838-0D21A3CE5EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E30117-54AD-468D-9838-0D21A3CE5EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E30117-54AD-468D-9838-0D21A3CE5EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D5E74F5-48A4-415E-84BA-A5A967FBE363}
+	EndGlobalSection
+EndGlobal
